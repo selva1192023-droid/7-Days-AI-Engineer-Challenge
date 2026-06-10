@@ -1,2 +1,19 @@
-# 7-Days-AI-Engineer-Challenge
-AI Engineering, Machine Learning, LLMs, RAG, AI Agents, and real-world projects in 7 days.                                                                      Learning AI by building in public. Daily projects, notes, and progress updates.                                                                   B.Tech AI &amp; Data Science student documenting a 7-day AI Engineer challenge.
+# 🚀 7 Days AI Engineer Challenge
+
+A public challenge where I learn, build, and share my progress in AI Engineering for 7 consecutive days.
+
+## Goals
+- Learn AI Engineering fundamentals
+- Build practical projects
+- Improve problem-solving skills
+- Share progress on LinkedIn
+- Maintain consistency
+
+## Challenge Progress
+- [x] Day 1 – AI Engineer Roadmap
+- [ ] Day 2 – Python for AI
+- [ ] Day 3 – Machine Learning
+- [ ] Day 4 – Deep Learning
+- [ ] Day 5 – Generative AI & LLMs
+- [ ] Day 6 – AI Agents
+- [ ] Day 7 – Final AI Project
