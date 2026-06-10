@@ -1,0 +1,2 @@
+# 7-Days-AI-Engineer-Challenge
+AI Engineering, Machine Learning, LLMs, RAG, AI Agents, and real-world projects in 7 days. Learning AI by building in public. Daily projects, notes, and progress updates. B.Tech AI &amp; Data Science student documenting a 7-day AI Engineer challenge.
